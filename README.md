@@ -1,4 +1,5 @@
 **Distributed Computing with Spark**<br />
+Description: Full ML pipeline using PySpark : Preprocessing, Data Analysis, Prediction<br />
 Language: PySpark<br />
 Team: Gauthier Schweitzer & Cyril Verluise<br />
 Date: May 2018<br />
